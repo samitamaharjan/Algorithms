@@ -1,4 +1,4 @@
-package com.datastructure.examples;
+package com.datastructure.linkedlist.examples;
 
 import com.datastructure.linkedlist.main.LinkedListNode;
 
